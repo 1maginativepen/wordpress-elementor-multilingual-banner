@@ -1,1 +1,1 @@
-# wordpress-elementor-multilingual-banner
+# elementor-banner-widget
